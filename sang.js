@@ -1,2 +1,2 @@
-var sang = 'Great Sang'
+var sang = 'Sang'
 console.log(sang);
